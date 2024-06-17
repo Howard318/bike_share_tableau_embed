@@ -6,20 +6,20 @@
     <script type="text/javascript"
 	    src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
     <script type="text/javascript"></script>
+    <link rel="stylesheet" href="./style.css">
 
 </head>
 
 <body>
 
   <h1>ORCID Data Visualization</h1>
+    <div class="button-container">
+      <button id = "exportPDF" class="button">Generate PDF</button>
+      <button id = "exportImage" class="button">Generate Image</button>
+    </div>
+  <div id="vizContainer"></div>
 
-    <button id = "exportPDF">Generate PDF</button>
-    <button id = "exportImage">Generate Image</button>
-
-
-    <div id="vizContainer"></div>
-
-    <script src="./app.js"></script>
+  <script src="./app.js"></script>
 
 </body>
 
