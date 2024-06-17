@@ -10,6 +10,7 @@ const options = {
     hideTabs: true,
     //height: 2000,
     //width: 1200,
+    
     onFirstInteraction: function() {
         workbook = viz.getWorkbook();
         activeSheet = workbook.getActiveSheet();

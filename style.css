@@ -1,6 +1,10 @@
+body {
+    background-color: #f0eff1;
+}
+
 h1 {
   font-family:  "Helvetica Neue",Helvetica, Arial, sans-serif;
-  color: rgb(26, 25, 25);
+  color: rgb(59, 59, 59);
   margin-left: 70px;
   /*text-align:center;*/
 }
@@ -8,6 +12,7 @@ h1 {
 .button-container {
     display: flex;
     margin-left: 70px;
+    margin-bottom: 25px;
     height: 5%;
     gap: 10px;
 }
