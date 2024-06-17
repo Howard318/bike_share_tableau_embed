@@ -53,9 +53,3 @@ If you want to learn more about Embedding Tableau Dashboards:
 Tableau: Embedding Dashboards – Next Steps (coming soon)
 Andre de Vries from the Information Lab has a brilliant series of videos on Embedding Dashboards.
 View Tableau’s Embedded Analytics Playbook and information on the Tableau Javascript API
-
-
-## thoughts, notes and randomness
-
-To view the webpage created as part of this Tableau Embedding Project go to: 
-https://dinkwiz.github.io/tableau_embed/
