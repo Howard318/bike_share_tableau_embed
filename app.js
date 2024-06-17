@@ -8,7 +8,7 @@ const url = "https://public.tableau.com/views/ORCIDCollaborationsVisualization/F
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
-    height: 1500,
+    height: 2000,
     width: 1200,
     onFirstInteraction: function() {
         workbook = viz.getWorkbook();
