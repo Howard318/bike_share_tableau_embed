@@ -8,8 +8,8 @@ const url = "https://public.tableau.com/views/CourseaBikeCase/FinalDashboard?:la
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
-    height: 2000,
-    width: 1200,
+    height: 3900,
+    width: 900,
     
     onFirstInteraction: function() {
         workbook = viz.getWorkbook();
