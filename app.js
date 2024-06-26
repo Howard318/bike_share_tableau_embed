@@ -1,4 +1,4 @@
-(console.log('Is this working?');
+console.log('Is this working?';
 
 let viz;
 
