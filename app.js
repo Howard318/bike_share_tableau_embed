@@ -8,7 +8,6 @@ const url = "https://public.tableau.com/views/CourseaBikeCase/FinalDashboard?:la
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
-    margin: 0,
     height: 3900,
     width: 900,
     
