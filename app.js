@@ -1,4 +1,4 @@
-console.log('Is this working?';
+console.log('Is this working?');
 
 let viz;
 
@@ -8,8 +8,9 @@ const url = "https://public.tableau.com/views/CourseaBikeCase/FinalDashboard?:la
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
-    height: 4000,
+    //height: 2000,
     //width: 1200,
+    
     onFirstInteraction: function() {
         workbook = viz.getWorkbook();
         activeSheet = workbook.getActiveSheet();
