@@ -1,4 +1,3 @@
-/*
 (console.log('Is this working?');
 
 let viz;
